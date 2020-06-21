@@ -124,7 +124,7 @@ p {
 
 .slide-2 {
   background-image: url('../images/antonio-grosz-vF5i44ERvF0-unsplash.jpg');
-  background-position: 100% 100%;
+  background-position: 100%;
   background-size: cover;
   background-repeat: repeat;
 }
@@ -459,7 +459,7 @@ p {
 
 .slide-3 {
   background-image: url('../images/ryan-song-0ZN-fZOyV7c-unsplash.jpg');
-  background-position: 0% 100%;
+  background-position: 100%;
   background-size: cover;
 }
 
