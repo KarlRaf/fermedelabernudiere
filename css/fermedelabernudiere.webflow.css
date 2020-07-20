@@ -307,7 +307,8 @@ p {
   width: 100%;
   margin-right: auto;
   margin-left: auto;
-  background: #f96e5b;
+background: rgb(0,36,35);
+background: linear-gradient(90deg, rgba(0,36,35,1) 0%, rgba(40,200,46,1) 0%, rgba(238,238,238,1) 0%, rgba(127,175,66,1) 100%, rgba(212,211,207,1) 100%, rgba(137,190,73,1) 100%, rgba(194,193,186,1) 100%);
 }
 
 .nav-container {
